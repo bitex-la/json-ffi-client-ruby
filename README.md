@@ -34,7 +34,7 @@ Assuming:
 
 - You have a library called "funky" acting as the JSON FFI server for a 'person' resource.
 - You have versions of your libraries for Linux, OS X and Windows called "libfunky.so", "libfunky.dylib" and "libfunky.dll".
-- All three live in live in the same directory as the file defining your JsonApiclient::Resource subclass.
+- All three live in the same directory as the file defining your JsonApiclient::Resource subclass.
 
 ```ruby
     class Person < JsonApiClient::Resource
