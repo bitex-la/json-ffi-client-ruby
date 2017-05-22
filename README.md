@@ -1,5 +1,8 @@
 # JsonFfiClient
 
+[![Build
+Status](https://travis-ci.org/bitex-la/json-ffi-client-ruby.svg?branch=master)](https://travis-ci.org/bitex-la/json-ffi-client-ruby)
+
 JSON-FFI is an implementation of the [jsonapi.org](http://jsonapi.org)
 protocol where instead of hitting a server your client communicates
 with a local shared library.
